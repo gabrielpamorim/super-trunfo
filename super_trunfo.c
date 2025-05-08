@@ -1,5 +1,9 @@
 git clone https://github.com/seu-usuario/super-trunfo.git
 cd super-trunfo
+git add super_trunfo.c
+git commit -m "Adiciona lógica de comparação de cartas do Super Trunfo"
+git push origin main
+    
 
 
 #include <stdio.h>
