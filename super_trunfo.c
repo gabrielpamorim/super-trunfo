@@ -1,3 +1,7 @@
+git clone https://github.com/seu-usuario/super-trunfo.git
+cd super-trunfo
+
+
 #include <stdio.h>
 
 // Estrutura para armazenar os dados de cada carta
